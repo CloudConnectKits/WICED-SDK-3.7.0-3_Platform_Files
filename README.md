@@ -1,5 +1,5 @@
 # WICED-SDK-3.7.0-3_Platform_Files 
-Note! Also suitable for WICED Studio 4.0
+# Note! Also suitable for WICED Studio 4.0
 
 Provides the missing ...\platforms\BCM94343W_AVN folder for your WICED-SDK-3.7.0-3 installation 
 
